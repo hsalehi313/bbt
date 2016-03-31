@@ -5,4 +5,4 @@ git add -A && \
 git commit -am "$desc" && \
 git push
 
-echo HELLLOOOOOOO
+
